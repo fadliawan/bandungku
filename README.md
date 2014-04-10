@@ -1,1 +1,1 @@
-When PHP + CodeIgniter was cool. (It's actually still...)
+When PHP + CodeIgniter were cool. (They're actually still...)
